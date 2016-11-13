@@ -1,0 +1,20 @@
+*.~
+*.class
+*.pyc
+*.swp
+
+# for: xelatex
+*.pdf
+*.aux
+*.log
+*.lot
+*.toc
+
+# for: Github + Hexo + Next
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
